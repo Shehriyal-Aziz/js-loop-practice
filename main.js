@@ -1,3 +1,5 @@
+// all loop practice js is here if you want to try any one just create new js file and paste that code there and connect to html 
+
 // write loop for 1-10
 
 for(let i = 1 ;i<11; i++){
